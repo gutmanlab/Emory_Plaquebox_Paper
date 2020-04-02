@@ -50,6 +50,7 @@ You should have 2 directories.
     * unzip all of them to get the image svs files and move the images to their appropriate wsi dir
    
 Example of dir structure:
+
 -- wsi/
 
 -- -- Dataset_1a_Development_Train/
