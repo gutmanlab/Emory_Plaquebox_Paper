@@ -42,12 +42,14 @@ You should have 2 directories.
     * create a local directory (i.e. repo_data)
     * create a wsi dir inside the direcotry (i.e. repo_data/wsi)
     * in wsi create these 5 directories: Dataset_1a_Development_Train, Dataset_1b_Development_validation, Dataset_2_Hold-out,
-    Dataset_3_CERAD-like_hold-out, Dataset_Emory_CERAD-like_hold-out (these 5 dirs will contain the image datasets)    
+    Dataset_3_CERAD-like_hold-out, Dataset_Emory (these 5 dirs will contain the image datasets)    
     * go to http://computablebrain.emory.edu:8080/#collection/5d607ae8d1dbc700dde750a7/folder/5e29ef629f68993bf1676f78
     * check the box next to AB_Slides
     * click the down arrow above AB_Slides and select "download checked resources" option. This will download a zip containing all the Emory AB WSI
     * go to https://doi.org/10.5281/zenodo.1470797 and download all associated zip files (5 of them)
     * unzip all of them to get the image svs files and move the images to their appropriate wsi dir
+3. from the Tang zenovo link also download the Tiles zip. in repo_data create a Tiles dir and combine the train and
+validation directories into one - train_and_val
    
 Example of dir structure:
 
@@ -61,7 +63,11 @@ Example of dir structure:
 
 -- -- Dataset_3_CERAD-like_hold-out/
 
--- -- Dataset_Emory_CERAD-like_hold-out/
+-- -- Dataset_Emory/
+
+--Tiles/
+
+-- -- train_and_val/
 
 **Please follow this naming convention to minimize the modification required in the Jupyter notebooks. Inside each of these dirs there should only be the image svs files you downloaded.**
 

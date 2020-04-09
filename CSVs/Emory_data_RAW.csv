@@ -1,0 +1,41 @@
+WSI_ID,Cored_MTG,Diffuse_MTG,CAA_MTG,Primary Dx,Secondary Dx (1),Secondary Dx (2),Sex,Race,Reagan
+AB_case_1,0,1,0,control,none,none,Female,Black/African American,no
+AB_case_2,0,0,1,control,none,none,Male,Caucasian,no
+AB_case_3,0,3,0,control,none,none,Female,Caucasian,no
+AB_case_4,2,3,1,AD,DLB,none,Male,Caucasian,high
+AB_case_5,0,1,0,control,poss AD,none,Male,Caucasian,low
+AB_case_6,1,2,0,AD,none,none,Male,Caucasian,intermediate
+AB_case_7,2,3,3,AD,none,none,Male,Caucasian,high
+AB_case_8,1,3,3,control,poss AD,none,Female,Caucasian,intermediate
+AB_case_9,1,3,3,AD,none,none,Female,Caucasian,high
+AB_case_10,0,0,0,control,none,none,Male,Caucasian,no
+AB_case_11,0,0,0,control,none,none,Female,Caucasian,no
+AB_case_12,2,3,2,AD,DLB,none,Female,Caucasian,high
+AB_case_13,2,1,0,AD,none,none,Female,Caucasian,low
+AB_case_14,2,3,0,DLB,prob AD,none,Male,Caucasian,low
+AB_case_15,0,0,0,DLB,none,none,Male,Caucasian,no
+AB_case_16,1,3,0,AD,none,none,Female,Caucasian,intermediate
+AB_case_17,2,3,1,AD,none,none,Male,Caucasian,high
+AB_case_18,3,3,2,AD,DLB,none,Male,Caucasian,high
+AB_case_19,2,3,3,AD,TDP,none,Female,Caucasian,high
+AB_case_20,2,3,0,AD,DLB,TDP,Male,Asian,intermediate
+AB_case_21,2,2,3,AD,TDP,none,Male,Caucasian,high
+AB_case_22,1,3,0,AD,DLB,none,Male,Caucasian,high
+AB_case_23,0,3,2,AD,none,none,Male,Caucasian,high
+AB_case_24,1,2,3,AD,TDP,amyg LB,Male,Black/African American,high
+AB_case_25,0,0,1,control,TDP,none,Female,Caucasian,no
+AB_case_26,3,3,3,AD,TDP,none,Female,Caucasian,high
+AB_case_27,2,3,3,AD,none,none,Male,Caucasian,intermediate
+AB_case_28,3,3,1,AD,TDP,amyg LB,Male,Caucasian,high
+AB_case_29,1,3,0,AD,amyg LB,none,Male,Caucasian,high
+AB_case_30,1,3,0,DLB,AD,none,Female,Caucasian,intermediate
+AB_case_31,2,3,3,AD,amyg LB,none,Female,Black/African American,intermediate
+AB_case_32,1,3,0,AD,DLB,none,Male,Caucasian,high
+AB_case_33,2,3,3,AD,amyg LB,none,Male,Caucasian,high
+AB_case_34,1,3,0,AD,none,none,Female,Black/African American,high
+AB_case_35,2,3,0,AD,none,none,Female,Caucasian,intermediate
+AB_case_36,2,3,2,AD,TDP,none,Female,Caucasian,high
+AB_case_37,1,3,2,AD,TDP,amyg LB,Male,Caucasian,high
+AB_case_38,1,3,2,AD,TDP,none,Male,Caucasian,intermediate
+AB_case_39,1,3,0,poss AD,none,none,Male,Black/African American,intermediate
+AB_case_40,0,0,0,DLB,none,none,Male,Caucasian,low
